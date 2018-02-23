@@ -1,6 +1,6 @@
 # keys
 
-My personal public keys
+Personal public keys:
 
 [SSH RSA](../glaieta-ssh-rsa.pub)
 
